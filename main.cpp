@@ -1,5 +1,5 @@
 // Project Cordelia 1.0
-// Made by KYS
+// Made by Waterticket
 
 #include <cstdio>
 #include <iostream>
