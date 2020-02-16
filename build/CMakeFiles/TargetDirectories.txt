@@ -1,0 +1,3 @@
+/home/waterticket/Desktop/Project/CppWeb/build/CMakeFiles/rebuild_cache.dir
+/home/waterticket/Desktop/Project/CppWeb/build/CMakeFiles/edit_cache.dir
+/home/waterticket/Desktop/Project/CppWeb/build/CMakeFiles/CppWeb.dir

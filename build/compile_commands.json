@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/waterticket/Desktop/Project/CppWeb/build",
+  "command": "/usr/bin/c++    -pthread -g   -std=gnu++14 -o CMakeFiles/CppWeb.dir/main.cpp.o -c /home/waterticket/Desktop/Project/CppWeb/main.cpp",
+  "file": "/home/waterticket/Desktop/Project/CppWeb/main.cpp"
+}
+]
